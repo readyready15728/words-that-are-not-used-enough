@@ -7,7 +7,7 @@ use and like that others use less frequently, but I'm me, which is why you are
 reading this `README.md`. I downloaded the [top 60,000
 lemmas](https://www.wordfrequency.info/samples.asp) data for the Corpus of
 Contemporary American English which they probably don't mind me reproducing
-here as they are out there for free and sorted them by frequency, descending.
+here as they are out there for free and sorted them by frequency, ascending.
 Then I picked out 20:
 
 * hemorrhaging
