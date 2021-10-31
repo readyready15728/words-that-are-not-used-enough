@@ -1,5 +1,5 @@
-library(tidyverse)
 library(readxl)
+library(tidyverse)
 
 tbl <- read_excel('lemmas_60k.xlsx')
 least_to_most_common <- tbl %>% arrange(freq) %>% select(lemma)
